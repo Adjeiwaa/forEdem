@@ -4,11 +4,11 @@ function getTimeBasedGreeting() {
             
             // Define time periods
             if (hour >= 5 && hour < 12) {
-                return "Good morning, how was your night?";
+                return "Good morning Edem, how was your night?";
             } else if (hour >= 12 && hour < 17) {
-                return "Good afternoon, how is your day going?";
+                return "Good afternoon Edem, how is your day going?";
             } else if (hour >= 17 && hour < 21) {
-                return "Good evening, how has your day been?";
+                return "Good evening Edem, how has your day been?";
             } else {
                 return "Have a goodnight sleep, babe.";
             }

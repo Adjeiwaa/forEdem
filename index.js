@@ -66,7 +66,7 @@ const messageRepository = [
                 author: "Nana"
             },
             {
-                text: "Your smile can light up the darkest day. Never stop sharing that beautiful light.",
+                text: "Edem, your smile can light up the darkest day. Never stop sharing that beautiful light.",
                 author: "Nana"
             },
             {

@@ -8,7 +8,7 @@ function getTimeBasedGreeting() {
             } else if (hour >= 12 && hour < 17) {
                 return "Good afternoon Edem, how is your day going?";
             } else if (hour >= 17 && hour < 23) {
-                return "Good evening Edem, how has your day been?";
+                return "Good evening Edem, how was your day?";
             } else {
                 return "Have a goodnight sleep, babe.";
             }

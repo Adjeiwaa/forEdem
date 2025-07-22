@@ -72,6 +72,10 @@ const messageRepository = [
             {
                 text: "Edem, you matter more than you know, and your presence makes a difference in this world.",
                 author: "Nana"
+            },
+            {
+               text: "Last night, I dreamed about you. What happened in detail, I can hardly remember; all I know is that we kept merging into one another. I was you, you were me.",
+               author: "Franz Kafka"         
             }
         ];
 

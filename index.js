@@ -42,7 +42,7 @@ function getTimeBasedGreeting() {
 // Message Repository
 const messageRepository = [
             {
-                text: "You are appreciated more than words can express. Thank you for being you.",
+                text: "Edem, you are appreciated more than words can express. Thank you for being you.",
                 author: "Nana"
             },
             {
@@ -70,8 +70,8 @@ const messageRepository = [
                 author: "Nana"
             },
             {
-                text: "You matter more than you know, and your presence makes a difference in this world.",
-                author: "The universe"
+                text: "Edem, you matter more than you know, and your presence makes a difference in this world.",
+                author: "Nana"
             }
         ];
 
